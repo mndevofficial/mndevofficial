@@ -3,7 +3,7 @@
 
   <br/>
 
-  <img src="[https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif](https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif)" width="250" alt="Dancing Dev" />
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width="250" alt="Dancing Dev" />
   
   
 </div>
