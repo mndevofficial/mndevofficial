@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nándor</h1>
 <h3 align="center">A frontend developer from Hungary</h3>
 
+<img href="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyOGNqam5pZ25ydnhyeWkwZmVkbDV4ams1N3N5OHhlOTh6am5jNHFnaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200w.gif"></img>
+
 - 🔭 I’m currently working on **GameHeaven Community webpage**
 
 - 🌱 I’m currently learning **TSX, NodeJS, PostgreSQL, Cypress, Jest**
