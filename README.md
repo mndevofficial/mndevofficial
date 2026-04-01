@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Nándor;Üdvözlök+a+profilomon!+🇭🇺;Frontend+Developer" alt="Typing SVG" />
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=warik23&label=Profile%20views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-  </p>
 </div>
 
 <br/>
