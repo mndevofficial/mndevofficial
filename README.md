@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Nándor;Üdvözlök+a+profilomon!+🇭🇺;Frontend+Developer" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there%21+👋+I%27m+Nándor;Üdvözlök+a+profilomon%21+🇭🇺;Frontend+Developer" alt="Typing SVG" />
 
   <br/>
 
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Dancing Dev" />
+  <img src="[https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif](https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif)" width="250" alt="Dancing Dev" />
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=warik23&label=Profile%20views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-  </p>
+  
 </div>
 <br/>
 
