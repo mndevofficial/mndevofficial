@@ -1,16 +1,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Nándor;Üdvözlök+a+profilomon!+🇭🇺;Frontend+Developer" alt="Typing SVG" />
+
+  <br/>
+
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Dancing Dev" />
   
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=warik23&label=Profile%20views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
-
-<br/>
-
-## 👨‍💻 About Me / Rólam
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyOGNqam5pZ25ydnhyeWkwZmVkbDV4ams1N3N5OHhlOTh6am5jNHFnaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200w.gif" width="200" />
-</div>
-
 <br/>
 
 | 🇬🇧 English | 🇭🇺 Magyar |
