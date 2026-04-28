@@ -41,12 +41,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warik23&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nándor's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=warik23&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mndevofficial&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nándor's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mndevofficial&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warik23&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mndevofficial&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
