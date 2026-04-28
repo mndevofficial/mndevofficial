@@ -3,9 +3,6 @@
 
   <br/>
 
-  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width="250" alt="Dancing Dev" />
-  
-  
 </div>
 <br/>
 
