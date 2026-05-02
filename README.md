@@ -8,8 +8,8 @@
 
 | 🇬🇧 English | 🇭🇺 Magyar |
 | :--- | :--- |
-| 🔭 I’m currently working on the **GameHeaven Community webpage** | 🔭 Jelenleg a **GameHeaven Community weboldalán** dolgozom |
-| 🌱 I’m currently learning **TSX, NodeJS, PostgreSQL, Cypress, Jest** | 🌱 Ezeket tanulom éppen: **TSX, NodeJS, PostgreSQL, Cypress, Jest** |
+| 🔭 I’m currently working on the **DupeWorld perfume database** | 🔭 Jelenleg a **DupeWorld parfüm adatbázis projekten** dolgozom |
+| 🌱 I’m currently learning **TSX, NodeJS, PostgreSQL, Vitest** | 🌱 Ezeket tanulom éppen: **TSX, NodeJS, PostgreSQL, Vitest** |
 | 🚀 All of my projects will be available **[soon](#)** | 🚀 A projektjeim **[hamarosan](#)** elérhetőek lesznek |
 | 💬 Ask me about **anything related to frontend** | 💬 Kérdezz bátran **bármiről, ami frontend** |
 
